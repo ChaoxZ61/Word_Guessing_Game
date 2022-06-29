@@ -12,7 +12,7 @@
 
 # Steps:
 
-**Step 1:** Download the Jupyter Notebook file and the txt file from the repository.
+**Step 1:** Download "WordGuessingGame.ipynb" and "words_alpha.txt" from the repository.
 
 **Step 2:** Put them in the same folder.
 
