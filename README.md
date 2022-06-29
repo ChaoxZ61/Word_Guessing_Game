@@ -1,6 +1,6 @@
 # Zheding's Word Guessing Game
 
-**prerequisite** Jupyter Notebook with Python 3.8 or higher
+**Prerequisite:** Jupyter Notebook with Python 3.8 or higher
 
 # Steps:
 
