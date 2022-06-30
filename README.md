@@ -16,4 +16,4 @@
 
 **Step 2:** Put them in the same folder.
 
-**Step 3:** Open the Jupyter Notebook file to start to enjoy the game!
+**Step 3:** Open the "WordGuessingGame.ipynb" to start to enjoy the game!
